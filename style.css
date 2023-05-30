@@ -1,0 +1,63 @@
+*{
+    font-family: Verdana, Tahoma, sans-serif;
+    background-color: #7074cd;
+    text-align: center;
+    
+}
+
+header{
+    font-size: 10px;
+}
+
+.logo{
+    margin: 5px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+.text-area{
+    background-color: #db91d7;
+    border: solid #91c1db 3px;
+    border-radius: 5px;
+    resize: none;
+}
+
+.mensaje{
+    background-color: #db91d7;
+    border: solid #91c1db 3px;
+    border-radius: 5px;
+    resize: none;
+}
+
+.informacion{
+    margin: 5px;
+}
+
+.botones{
+    margin: 5px;
+}
+
+.btn-encriptar{
+    background-color: #db91d7;
+    border: solid #91c1db 3px;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px 25px;
+}
+
+.btn-desencriptar{
+    background-color: #db91d7;
+    border: solid #91c1db 3px;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 10px 15px;
+}
+
+.copiar{
+    background-color: #db91d7;
+    border: solid #91c1db 3px;
+    border-radius: 5px;
+    display: inline !important;
+    margin: 5px;
+    padding: 10px 25px;
+}
